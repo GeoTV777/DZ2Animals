@@ -27,39 +27,6 @@ public abstract class Animal {
     }
 
 
-//  public void setName(String name) {
-//      this.name = name;
-//  }
-//
-//  public int setAge(){
-//       this.age =  age;
-//  }
-//
-//  public int setWeight() {
-//      this.weight = weight;
-//  }
-//
-//  public ColorData setColor() {
-//      this.color = color;
-//  }
-//
-//  public String getName() {
-//
-//      return name;
-//  }
-//  public int getAge() {
-//
-//      return age;
-//  }
-//  public int getWeight() {
-//
-//      return weight;
-//  }
-//  public ColorData getColor() {
-//
-//      return color;
-//  }
-
     public String toString() {
 
       String yearPadej = getYearPadej();
